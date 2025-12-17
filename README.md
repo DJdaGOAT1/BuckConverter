@@ -1,0 +1,1 @@
+A buck converter is a high-efficiency power conversion circuit that steps down a higher input voltage to a lower output voltage for a load. Unlike simple methods like resistor dividers that waste energy as heat, a buck converter uses switching elements -like MOSFETs -and inductive filtering to efficiently regulate voltage, reaching 90% efficiency!
